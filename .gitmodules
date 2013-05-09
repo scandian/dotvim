@@ -1,3 +1,6 @@
 [submodule "bundle/sensible"]
 	path = bundle/sensible
 	url = http://github.com/tpope/vim-sensible.git
+[submodule "bundle/colorschemes"]
+	path = bundle/colorschemes
+	url = http://github.com/flazz/vim-colorschemes.git
